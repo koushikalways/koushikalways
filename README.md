@@ -1,4 +1,4 @@
-![Web Developer](https://lh3.googleusercontent.com/a-/AOh14Gio7wPArJ-8vLiWoNqReXuOLzmil6Uy3iQN4OHGKw=s360-p-no)
+![Web Developer](https://pbs.twimg.com/profile_banners/1110641054447853568/1632213106/1080x360)
 
 ### Hi, I'm Koushik Ahmad 👋 
 #### Web Developer
