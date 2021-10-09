@@ -1,4 +1,4 @@
-![Web Developer](https://pbs.twimg.com/profile_banners/1110641054447853568/1632213106/1080x360)
+![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHMUgLCIy5mBw/profile-displaybackgroundimage-shrink_350_1400/0/1632213181780?e=1639008000&v=beta&t=NMwBoeZYAeqOoVyh4CJG8ZedjEk34FqfhG0fOjmLwZM)
 
 ### Hi, I'm Koushik Ahmad 👋 
 #### Web Developer
