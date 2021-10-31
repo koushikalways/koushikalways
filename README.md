@@ -1,4 +1,4 @@
-![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHnj2uPq_nKmg/profile-displaybackgroundimage-shrink_350_1400/0/1635713186552?e=1641427200&v=beta&t=NHt0bbojtsfVVgqZn_hkBIzr4wzXRuTM08CBbqQQ9vE)
+![Web Developer]()
 
 ### Hi, I'm Koushik Ahmad 👋 
 #### Web Developer
