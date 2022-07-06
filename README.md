@@ -5,7 +5,7 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
 
 
-Skills: REACT / JS / HTML / CSS/PHP
+Skills: REACT / JS / HTML / CSS/
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning JavaScript 
